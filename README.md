@@ -24,8 +24,5 @@ Setup Instructions:
    - Choose MongoDB as the database for storing results.
    - Modify each consumer application to connect to MongoDB and store the analysis insights.
 
-5. README File:
-   - Write a README file documenting the project's approach, setup instructions, and other relevant details.
-
-6. Bash Script :
+5. Bash Script :
    - Develop a Bash script to automate the execution of the producer, consumers, and Kafka components initialization.
